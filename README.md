@@ -1,6 +1,4 @@
-Here's a template for a README file to accompany your `Visualization.ipynb` notebook on GitHub. You can customize it based on the specific details of your project.
 
----
 
 # Visualization Notebook
 
