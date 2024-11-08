@@ -1,5 +1,3 @@
-
-
 # Visualization Notebook
 
 This repository contains a Jupyter Notebook dedicated to visualizing and analyzing data. The notebook, `Visualization.ipynb`, provides insightful graphical representations, making it easier to interpret trends, patterns, and key findings from the dataset.
