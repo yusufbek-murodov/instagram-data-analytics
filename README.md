@@ -45,10 +45,6 @@ To run this notebook, ensure you have the following installed:
 
 2. Open `Visualization.ipynb` and run the cells to generate visualizations and analyze the data.
 
-## Examples
-
-- Example 1: [Briefly describe an example visualization or analysis]
-- Example 2: [Describe another example]
 
 ## Contributing
 
